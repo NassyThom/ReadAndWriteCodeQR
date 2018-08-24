@@ -1,0 +1,17 @@
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\bin\Debug\Lector_y_Generador_QR.exe.config
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\bin\Debug\Lector_y_Generador_QR.exe
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\bin\Debug\Lector_y_Generador_QR.pdb
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\bin\Debug\zxing.dll
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\bin\Debug\zxing.presentation.dll
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\bin\Debug\zxing.pdb
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\bin\Debug\zxing.xml
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\bin\Debug\zxing.presentation.pdb
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\bin\Debug\zxing.presentation.xml
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\obj\Debug\Lector_y_Generador_QR.csprojAssemblyReference.cache
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\obj\Debug\Lector_y_Generador_QR.Form1.resources
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\obj\Debug\Lector_y_Generador_QR.Properties.Resources.resources
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\obj\Debug\Lector_y_Generador_QR.csproj.GenerateResource.cache
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\obj\Debug\Lector_y_Generador_QR.csproj.CoreCompileInputs.cache
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\obj\Debug\Lector_y_Generador_QR.csproj.CopyComplete
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\obj\Debug\Lector_y_Generador_QR.exe
+C:\Users\Teknik-Dell\source\repos\Lector_y_Generador_QR\Lector_y_Generador_QR\obj\Debug\Lector_y_Generador_QR.pdb
